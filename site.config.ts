@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Yisong Han',
-  domain: 'https://www.notion.so/yisonghan/Yisong-Han-2c2183f0f55c80529553c5e75d23ee6d',
+  domain: 'https://yisonghan.notion.site/Yisong-Han-2c2183f0f55c80529553c5e75d23ee6d',
   author: 'Yisong',
 
   // open graph metadata (optional)
